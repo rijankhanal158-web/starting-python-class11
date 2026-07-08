@@ -1,0 +1,21 @@
+#basic-eligibility-checker
+
+mom_name=input("What is your Mother name? ")
+print("My mother name is: ")
+print(mom_name)
+
+father_name=input("What is your Father name? ")
+print("My father name is:")
+print(father_name) 
+
+lice=int(input("How old are you?"))
+if lice >= 18:
+    print("Then You  have a licence")
+else:
+    print("Then You don't have a licence")
+    
+#2nd One
+    
+ 
+    
+
